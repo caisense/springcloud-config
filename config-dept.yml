@@ -35,7 +35,9 @@ eureka:
 info:
   app.name: css-springcloud
   company.name: css.com
+  
 ---
+
 server:
   port: 8001
 
