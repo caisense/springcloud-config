@@ -1,7 +1,9 @@
 spring:
   profiles:
     active: dev
+
 ---
+
 server:
   port: 8001
 
@@ -36,7 +38,6 @@ eureka:
 info:
   app.name: css-springcloud
   company.name: css.com
-  
 ---
 
 server:
